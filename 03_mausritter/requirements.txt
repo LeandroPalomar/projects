@@ -1,0 +1,8 @@
+cocos2d
+Cython
+glfw
+imgui
+pyglet
+PyOpenGL
+PyOpenGL-accelerate
+PySDL2
